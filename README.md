@@ -48,17 +48,17 @@ Model yang telah dilatih diekspor ke beberapa format di direktori:
 * `tfjs_model/`: Berisi model yang dikonversi ke format TensorFlow.js untuk penggunaan di web.
 
 ## Struktur Proyek
-[grape-disease-detection]/
-├── README.md/
-├── saved_model/
-├── tflite/
-│   ├── model.tflite/
-│   └── labels.txt/
-├── tflite/tfjs_model/
-│   ├── model.json/
-│   ├── group1-shard1of1.bin/
-│   └── .../
-├── notebook.ipynb/
-├── requirements.txt/
-├── plot_latihan.png/
-└── confusion_matrix.png
+[grape-disease-detection]\
+├── README.md\
+├── saved_model/\
+├── tflite/\
+│   ├── model.tflite\
+│   └── labels.txt\
+├── tfjs_model/\
+│   ├── model.json\
+│   ├── group1-shard1of1.bin\
+│   └── ...\
+├── notebook.ipynb\
+├── requirements.txt\
+├── plot_latihan.png\
+└── confusion_matrix.pn\
