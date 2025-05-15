@@ -61,4 +61,4 @@ Model yang telah dilatih diekspor ke beberapa format di direktori:
 ├── notebook.ipynb\
 ├── requirements.txt\
 ├── plot_latihan.png\
-└── confusion_matrix.pn\
+└── confusion_matrix.png\
