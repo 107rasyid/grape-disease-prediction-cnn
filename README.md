@@ -42,7 +42,7 @@ _Plot ini menampilkan grafik akurasi dan loss pada set pelatihan dan validasi se
 _Confusion matrix ini memvisualisasikan kinerja model dengan menunjukkan jumlah prediksi yang benar dan salah untuk setiap kelas penyakit daun anggur pada data pengujian._
 
 ## Ekspor Model
-Model yang telah dilatih diekspor ke beberapa format di direktori `exported_models/`:
+Model yang telah dilatih diekspor ke beberapa format di direktori:
 * `saved_model/`: Berisi model dalam format SavedModel.
 * `tflite/`: Berisi model yang dikonversi ke format TF-Lite.
 * `tfjs_model/`: Berisi model yang dikonversi ke format TensorFlow.js untuk penggunaan di web.
@@ -59,5 +59,6 @@ Model yang telah dilatih diekspor ke beberapa format di direktori `exported_mode
 │   ├── group1-shard1of1.bin
 │   └── ...
 ├── notebook.ipynb
+├── requirements.txt
 ├── plot_latihan.png
 └── confusion_matrix.png
