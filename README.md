@@ -49,16 +49,16 @@ Model yang telah dilatih diekspor ke beberapa format di direktori:
 
 ## Struktur Proyek
 [grape-disease-detection]/
-├── README.md
+├── README.md/
 ├── saved_model/
 ├── tflite/
-│   ├── model.tflite
-│   └── labels.txt
+│   ├── model.tflite/
+│   └── labels.txt/
 ├── tflite/tfjs_model/
-│   ├── model.json
-│   ├── group1-shard1of1.bin
-│   └── ...
-├── notebook.ipynb
-├── requirements.txt
-├── plot_latihan.png
+│   ├── model.json/
+│   ├── group1-shard1of1.bin/
+│   └── .../
+├── notebook.ipynb/
+├── requirements.txt/
+├── plot_latihan.png/
 └── confusion_matrix.png
