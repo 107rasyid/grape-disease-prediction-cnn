@@ -33,12 +33,12 @@ Total waktu pelatihan adalah 963.14 detik.
 
 ### Plot Pelatihan
 
-![Plot Pelatihan](https://github.com/107rasyid/grape-disease-prediction-cnn/blob/main/plot%20pelatihan%20model.png))
+![Plot Pelatihan](https://github.com/107rasyid/grape-disease-prediction-cnn/blob/main/plot%20pelatihan%20model.png))\
 _Plot ini menampilkan grafik akurasi dan loss pada set pelatihan dan validasi selama proses pelatihan._
 
 ### Confusion Matrix
 
-![Confusion Matrix](https://raw.githubusercontent.com/107rasyid/grape-disease-prediction-cnn/main/confusion%20matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/107rasyid/grape-disease-prediction-cnn/main/confusion%20matrix.png)\
 _Confusion matrix ini memvisualisasikan kinerja model dengan menunjukkan jumlah prediksi yang benar dan salah untuk setiap kelas penyakit daun anggur pada data pengujian._
 
 ## Ekspor Model
