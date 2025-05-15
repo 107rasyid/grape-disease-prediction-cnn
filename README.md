@@ -33,7 +33,7 @@ Total waktu pelatihan adalah 963.14 detik.
 
 ### Plot Pelatihan
 
-![Plot Pelatihan](https://github.com/107rasyid/grape-disease-prediction-cnn/blob/main/plot%20pelatihan%20model.png))\
+![Plot Pelatihan](https://github.com/107rasyid/grape-disease-prediction-cnn/blob/main/plot%20pelatihan%20model.png)\
 _Plot ini menampilkan grafik akurasi dan loss pada set pelatihan dan validasi selama proses pelatihan._
 
 ### Confusion Matrix
