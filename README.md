@@ -30,12 +30,15 @@ weighted avg     0.9956    0.9956    0.9956       904
 Total waktu pelatihan adalah 963.14 detik.
 
 ## Visualisasi Hasil
-### Plot Latihan
-![Plot Latihan](plot pelatihan model.png)
+
+### Plot Pelatihan
+
+![Plot Pelatihan](plot pelatihan model.png)
 _Plot ini menampilkan grafik akurasi dan loss pada set pelatihan dan validasi selama proses pelatihan._
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+
+![Confusion Matrix](confusion matrix.png)
 _Confusion matrix ini memvisualisasikan kinerja model dengan menunjukkan jumlah prediksi yang benar dan salah untuk setiap kelas penyakit daun anggur pada data pengujian._
 
 ## Ekspor Model
