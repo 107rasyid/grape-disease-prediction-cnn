@@ -31,7 +31,7 @@ Total waktu pelatihan adalah 963.14 detik.
 
 ## Visualisasi Hasil
 ### Plot Latihan
-![Plot Latihan](plot_latihan.png)
+![Plot Latihan](plot pelatihan model.png)
 _Plot ini menampilkan grafik akurasi dan loss pada set pelatihan dan validasi selama proses pelatihan._
 
 ### Confusion Matrix
