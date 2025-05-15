@@ -16,16 +16,15 @@ Proyek ini mengikuti alur kerja tipikal pengembangan model deep learning:
 ## Hasil Pelatihan
 Laporan klasifikasi pada data pelatihan adalah sebagai berikut:
 Classification Report:
-precision    recall  f1-score   support
+precision    recall  f1-score   support\
+ Healthy     1.0000    1.0000    1.0000       213\
+Black Rot     0.9885    0.9961    0.9923       258\
+ESCA     0.9957    0.9915    0.9936       236\
+Leaf Blight     1.0000    0.9949    0.9975       197\
 
- Healthy     1.0000    1.0000    1.0000       213
-Black Rot     0.9885    0.9961    0.9923       258
-ESCA     0.9957    0.9915    0.9936       236
-Leaf Blight     1.0000    0.9949    0.9975       197
-
-accuracy                         0.9956       904
-macro avg     0.9961    0.9956    0.9958       904
-weighted avg     0.9956    0.9956    0.9956       904
+accuracy                         0.9956       904\
+macro avg     0.9961    0.9956    0.9958       904\
+weighted avg     0.9956    0.9956    0.9956       904\
 
 Total waktu pelatihan adalah 963.14 detik.
 
@@ -33,12 +32,12 @@ Total waktu pelatihan adalah 963.14 detik.
 
 ### Plot Pelatihan
 
-![Plot Pelatihan](plot pelatihan model.png)
+![Plot Pelatihan](https://github.com/107rasyid/grape-disease-prediction-cnn/blob/main/plot%20pelatihan%20model.png))
 _Plot ini menampilkan grafik akurasi dan loss pada set pelatihan dan validasi selama proses pelatihan._
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/107rasyid/grape-disease-prediction-cnn/main/confusion%20matrix.png)
 _Confusion matrix ini memvisualisasikan kinerja model dengan menunjukkan jumlah prediksi yang benar dan salah untuk setiap kelas penyakit daun anggur pada data pengujian._
 
 ## Ekspor Model
