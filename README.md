@@ -14,17 +14,18 @@ Proyek ini mengikuti alur kerja tipikal pengembangan model deep learning:
 6.  **Inferensi Model:** Contoh kode disediakan untuk melakukan inferensi menggunakan model yang telah diekspor dalam format SavedModel dan TFJS.
 
 ## Hasil Pelatihan
-Laporan klasifikasi pada data pelatihan adalah sebagai berikut:
-Classification Report:
-precision    recall  f1-score   support\
- Healthy     1.0000    1.0000    1.0000       213\
-Black Rot     0.9885    0.9961    0.9923       258\
-ESCA     0.9957    0.9915    0.9936       236\
-Leaf Blight     1.0000    0.9949    0.9975       197\
 
-accuracy                         0.9956       904\
-macro avg     0.9961    0.9956    0.9958       904\
-weighted avg     0.9956    0.9956    0.9956       904\
+Laporan klasifikasi pada data pelatihan adalah sebagai berikut:
+
+|               | precision | recall | f1-score | support |
+|---------------|-----------|--------|----------|---------|
+| Healthy       | 1.0000    | 1.0000 | 1.0000   | 213     |
+| Black Rot     | 0.9885    | 0.9961 | 0.9923   | 258     |
+| ESCA          | 0.9957    | 0.9915 | 0.9936   | 236     |
+| Leaf Blight   | 1.0000    | 0.9949 | 0.9975   | 197     |
+| accuracy      |           |        | 0.9956   | 904     |
+| macro avg     | 0.9961    | 0.9956 | 0.9958   | 904     |
+| weighted avg  | 0.9956    | 0.9956 | 0.9956   | 904     |
 
 Total waktu pelatihan adalah 963.14 detik.
 
